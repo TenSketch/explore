@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #fff;
   font-family: "Poppins", sans-serif;
 }
 /* nav {
@@ -19,11 +18,12 @@ img{
 
 .parralax_wrapper {
   height: 100vh;
+  color: #fff;
 }
 .parralax_wrapper img {
   width: 100%;
   position: absolute;
-  height: 110vh;
+  height: 100vh;
   object-fit: cover;
   z-index: -1;
 }
@@ -45,7 +45,7 @@ img{
 }
 img.girl{
   height: auto;
-  max-width: 25%;
+  max-width: 25%;par
   bottom: 5vh;
   left: 10vh;
 }
