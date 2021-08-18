@@ -80,3 +80,19 @@ img.girl{
   padding: 2rem 1rem;
   font-size: 1.1rem;
 }
+@media(max-width:600px){
+.main-title,img.girl {
+  left: 50%;
+  transform: translateX(-50%);
+  font: 2rem;
+}
+.main-title{
+  font: 2rem;
+}
+img.girl{
+  max-width: 25%;
+  min-width: 50%;
+  bottom: 5vh;
+  
+}
+}
