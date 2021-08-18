@@ -13,6 +13,10 @@
   justify-content: space-between;
 } */
 
+img{
+  max-width: 100%;
+}
+
 .parralax_wrapper {
   height: 100vh;
 }
@@ -60,7 +64,15 @@ img.girl{
   min-height: 60vh;
   text-align: center;
 }
+.content-images div {
 
+
+}
+
+
+.content-images img {
+  width: 60%;
+}
 .text {
   padding: 2rem 20rem;
   font-size: 1.1rem;
