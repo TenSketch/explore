@@ -64,16 +64,15 @@ img.girl{
   min-height: 60vh;
   text-align: center;
 }
-.content-images div {
-
-
+.container{
+  width: min(1200px, 80%);
+  margin: 0 auto;
 }
-
 
 .content-images img {
   width: 60%;
 }
 .text {
-  padding: 2rem 20rem;
+  padding: 2rem 1rem;
   font-size: 1.1rem;
 }
